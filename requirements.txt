@@ -1,0 +1,4 @@
+computer access 
+access mic
+access webcam
+access internal storage
